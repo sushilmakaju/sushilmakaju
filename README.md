@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **python with Django**
 
 - 📫 How to reach me **sushilmakaju559@gmail.com**
 
